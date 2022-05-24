@@ -56,7 +56,7 @@ python inverse_render_double_semantic.py exp_name path/to/generator.pth --image_
 2. Editing Shape. Edit the segmentation map using our UI platform: `python ./Painter/run_UI.py`. You can load a segmentation map and edit it. 
 Press the 'Save Img' button after editing. Then load the latent code obtained in Step 1 and run inversion again:
 
-<img align="right" src="./images/seg_tools.png" width="200px">
+<img align="right" src="./seg_tools.png" width="200px">
 
 ```
 
