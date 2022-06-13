@@ -76,11 +76,13 @@ FENeRF w/ latent grid: https://drive.google.com/file/d/1ObhhxPTeuTBOOJwxOL3_xzwB
 ## Citation
 
 ```
-@article{sun2022fenerf,
-  title={FENeRF: Face Editing in Neural Radiance Fields},
-  author={Sun, Jingxiang and Wang, Xuan and Zhang, Yong and Li, Xiaoyu and Zhang, Qi and Liu, Yebin and Wang, Jue},
-  journal={Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
+@InProceedings{Sun_2022_CVPR,
+    author    = {Sun, Jingxiang and Wang, Xuan and Zhang, Yong and Li, Xiaoyu and Zhang, Qi and Liu, Yebin and Wang, Jue},
+    title     = {FENeRF: Face Editing in Neural Radiance Fields},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {7672-7682}
 }
 ```
 
