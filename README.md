@@ -16,7 +16,7 @@ We trained our models on CelebAHQ-Mask and FFHQ:
 * [FFHQ](https://github.com/NVlabs/stylegan)
 * [CelebA](https://github.com/switchablenorms/CelebAMask-HQ)
 
-For FFHQ, we estimate the segmentation map for each portrait image by `prepare_segmaps.py`. We adopt the pretrained face parsing model in [SofGAN](https://github.com/apchenstu/sofgan) and convert semantic categories to the format of CelebA. Please download [pretrained model](https://drive.google.com/file/d/1cJv5Oi0olBWbdkt2wu32f3inLYn4tSZU/view?usp=sharing) and put it into `./checkpoints`.
+For FFHQ, we estimate the segmentation map for each portrait image by `prepare_segmaps.py`. We adopt the pretrained face parsing model in [SofGAN](https://github.com/apchenstu/sofgan) and convert semantic categories to the format of CelebA. Please download [pretrained model](https://drive.google.com/file/d/17H1JR-UJllJ3TCnEbtJscx_GgupTBtqS/view?usp=sharing) and put it into `./checkpoints`.
 
 ## Training a Model
 
